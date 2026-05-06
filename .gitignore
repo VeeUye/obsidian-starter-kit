@@ -1,0 +1,13 @@
+.DS_Store
+*.DS_Store
+
+# Obsidian workspace state (local only)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin bundles — install via Community Plugins, don't commit
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# Sync metadata
+.obsidian/sync.json
